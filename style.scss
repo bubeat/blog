@@ -7,7 +7,7 @@
 //
 
 //@import "reset";
-
+$green:#58ab03;
 @import "variables";
 
 // Syntax highlighting @import is at the bottom of this file
@@ -29,7 +29,11 @@ body {
 }
 
 a, a:hover,a:focus,a:active{
-    color:#58ab03;
+    color:$green;
+}
+
+.green{
+	color:$green;
 }
 
 .blog-title{
