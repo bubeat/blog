@@ -51,7 +51,7 @@ body {
   	margin-top: 5px;
   	margin-bottom: 10px;
   	text-align:center;
-  	font-size:$fontSize;
+
     	text-shadow: 1px 1px 1px #d0d0d0;
     	color:#333;
     
@@ -59,14 +59,14 @@ body {
   
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+
     padding: 0.1em 1em;
-    color: $gray;
+
     font-style: italic;
   }
 .entry{
     color: #434356;
-    font-family: $georgia;
+
     font-size: .95rem;
     line-height: 1.85;
     text-shadow: 1px 1px 1px #f0f0f0;
@@ -76,13 +76,12 @@ body {
     }
     
     h2{
-    	font-size:$h1Font*.85;
-    	color:$gray;
+    	
     	background-color:transparent;
     }
     
     h3{
-    	font-size:$h1Font*.75;
+   
     }
     
     
@@ -91,7 +90,7 @@ body {
 
  footer{
  	text-align:center;
- 	font-size:$fontSize*.75;
+ 
  }
 
   .read-more {
@@ -111,7 +110,7 @@ body {
 footer {
   padding: 20px 0;
   text-align: center;
-  font-size: $fontSize * .5;
+
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
