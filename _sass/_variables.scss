@@ -1,0 +1,12 @@
+
+//
+// VARIABLES
+//
+
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}

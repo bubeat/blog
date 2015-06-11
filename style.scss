@@ -1,0 +1,120 @@
+---
+---
+
+
+//
+// IMPORTS
+//
+
+//@import "reset";
+@import "variables";
+// Syntax highlighting @import is at the bottom of this file
+
+/**************/
+/* BASE RULES */
+/**************/
+
+html {
+  font-size: 100%;
+}
+
+body {
+	background:#f7f6f2;
+    font-family:'Open Sans',Arial, Helvetica, sans-serif;
+}
+
+
+/*********************/
+/* LAYOUT / SECTIONS */
+/*********************/
+
+
+ #comments {
+    margin-top: 10px;
+    padding:0 25px;
+  }
+
+.posts > .post:last-child {
+  padding-bottom: 1em;
+  border-bottom: none;
+}
+
+.post {
+  background-color: #fdfdfd;
+    border: 1px solid #e5e2da;
+    border-radius: 5px;
+    margin: 1rem;
+    margin-bottom: 2.3rem;
+    padding: 25px 25px 10px;
+    
+  h1{
+  	margin-top: 5px;
+  	margin-bottom: 10px;
+  	text-align:center;
+  	font-size:$fontSize;
+    	text-shadow: 1px 1px 1px #d0d0d0;
+    	color:#333;
+    
+  }	
+  
+  blockquote {
+    margin: 1.8em .8em;
+    border-left: 2px solid $gray;
+    padding: 0.1em 1em;
+    color: $gray;
+    font-style: italic;
+  }
+.entry{
+    color: #434356;
+    font-family: $georgia;
+    font-size: .95rem;
+    line-height: 1.85;
+    text-shadow: 1px 1px 1px #f0f0f0;
+    
+    p{
+    	margin-bottom:2rem;
+    }
+    
+    h2{
+    	font-size:$h1Font*.85;
+    	color:$gray;
+    	background-color:transparent;
+    }
+    
+    h3{
+    	font-size:$h1Font*.75;
+    }
+    
+    
+}
+ 
+
+ footer{
+ 	text-align:center;
+ 	font-size:$fontSize*.75;
+ }
+
+  .read-more {
+      font-size: 15px;
+  }
+}
+
+.pagination{
+	padding-left:2rem;
+	margin-top:0;
+}
+
+.pagination li {
+	font-size:;
+}
+
+footer {
+  padding: 20px 0;
+  text-align: center;
+  font-size: $fontSize * .5;
+}
+
+// Settled on moving the import of syntax highlighting to the bottom of the CSS
+// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+@import "highlights";
+@import "svg-icons";
