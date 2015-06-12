@@ -1,6 +1,6 @@
 ---
  layout: post
- title: First Steps In Our Journey From 0 To 100 Customers
+ title: First Steps In Our Journey To 100 Customers
 ---
 
 Here ye, here ye! Gather around, all entrepreneurs, wantrepreneurs and bootstrappers! This is the story of how a lowly bootstrapper built a successful business on a shoestring budget.
