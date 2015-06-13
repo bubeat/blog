@@ -1,11 +1,11 @@
 ---
  layout: post
- title: First Steps In Our Journey From 0 To 100 Customers
+ title: First Steps In Our Journey To 100 Customers
 ---
 
 Here ye, here ye! Gather around, all entrepreneurs, wantrepreneurs and bootstrappers! This is the story of how a lowly bootstrapper built a successful business on a shoestring budget.
 
-OK, I'm kidding... there is no epic story yet. Just a very humble beginning. But I want to share our journey with every one wanting to build their own business. Regardless if you're an wantrepreneur or an entrepreneur, you know that we all make mistakes and we should learn from them. Even better, let's learn from other people mistakes or successes. I know I've learned a great deal from [Alex Turnbull of Groove](https://www.groovehq.com/blog) or [Josh Pigford of Baremetrics](https://baremetrics.com/blog) and I've decided to share my journey as it happens (btw, Im keeping an eye on [Kilometer.io blog's](http://www.kilometer.io/blog) too). 
+OK, I'm kidding... there is no epic story yet. Just a very humble beginning. But I want to share our journey with every one wanting to build their own business. Regardless if you're an wantrepreneur or an entrepreneur, you know that we all make mistakes and we should learn from them. Even better, let's learn from other people mistakes or successes. I know I've learned a great deal from [Alex Turnbull of Groove](https://www.groovehq.com/blog) or [Josh Pigford of Baremetrics](https://baremetrics.com/blog) and I've decided to share my journey as it happens (btw, Im keeping an eye on [Kilometer.io blog](http://www.kilometer.io/blog) too). 
 
 Like in many startups, we are a team of 3: Me, Myself and I . Me is in charge of development, Myself handles marketing and I takes care of the business problems. And like many entrepreneurs, we are bootstrappers (read: have little to no money). But that's ok, humans are quite creative when they don't have enough resources. This is when innovation happens and great products appear (do you know how Nutella came to be? During World War 2, a chocolatier trying to make this cocoa supplies last longer used hazelnut butter). 
 
